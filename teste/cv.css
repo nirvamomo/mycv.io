@@ -1,0 +1,106 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.infophoto{
+    height: 250px;
+}
+.info{
+    float: left;
+color: black;
+}
+
+.photo{
+    width: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: 240px;
+}
+body{
+    font-family: times new roman;
+    border: 2px solid black;
+    width: 800px;
+    color: black;
+}
+
+P{
+    
+    font-size: 16px;
+           
+}
+
+#para1{
+    color : dodgerblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#para2{
+    color : dodgerblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#para3{
+    color : dodgerblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#para4{
+    color : dodgerblue;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
+
+.sec-droite1{
+    background-color: darkgrey;
+    width: 710px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+
+    
+    
+    
+
+.sec-droite2{
+    background-color: darkgrey;
+    width: 710px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+
+
+.sec-droite3{
+    background-color: darkgrey;
+    width: 710px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+.sec-droite4{
+    background-color: darkgrey;
+    width: 710px;
+    border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
